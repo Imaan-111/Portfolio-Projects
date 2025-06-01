@@ -1,3 +1,5 @@
+(Python3)
+
 Projects 1-3: Exploration and Analysis on a dataset.
 Used multiple libraries for statisitcal summaries and data visualization.
 
@@ -7,6 +9,5 @@ Project2: Life-Expectancy-GDP
 
 Project3: Biodiversity
 
-**Employee Attrition Analysis:
-  Final Data Analytics Module project.
+Project4: Employee Attrition Analysis:
   Includes Uni Variate, Bi Variate, Multi Variate Feature Analysis.
